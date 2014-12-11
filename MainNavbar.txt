@@ -1,0 +1,17 @@
+		<div class="nav-fixed-head" id="navbar">
+			<ul class="nav">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="http://www.jefferson.k12.ky.us/Parent/Apply_Middle_High.html">Applications</a></li>
+				<li><a href="#">Extra-Curricular Activities</a>
+					<ul>
+						<li><a href="ExtraCurricularActivities.html">Clubs</a></li>
+						<li><a href="http://schedules.schedulestar.com/Barret-Traditional-Middle-School-Louisville-KY/day/08-12-2014/">Athletics</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Faculty</a></li>
+				<li><a href="#">History</a></li>
+				<li>
+				<a href="#">Contact Info</a>
+				</li>
+			</ul>
+		</div>
